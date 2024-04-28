@@ -16,10 +16,9 @@ p {
   font-family: Arial
 }
 
+div {
+  background-color: darkcyan;
+  text-align: right;
+ }
 
-header {
-  background-color: green;
-  padding: 10px;
-  color: white;
-  text-align: center;
-}
+
